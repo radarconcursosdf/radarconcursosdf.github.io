@@ -7,30 +7,6 @@
   "ignorado": true,
   "publicado": "2026-09-29"
  },
- "https://concursosnobrasil.com/concursos/2026/10/09/concurso-cgu-publica-edital-com-428-vagas-para-auditor-federal-e-salario-de-r-20-mil/": {
-  "area": [
-   "TI",
-   "Controle e fiscal",
-   "Educação"
-  ],
-  "auto": true,
-  "banca": "Cebraspe",
-  "cargo": "Auditor Federal",
-  "esfera": "Nacional, com vagas em Brasília",
-  "h": "5945880d50",
-  "id": "auto-d325c242",
-  "ini": "2026-10-10",
-  "link": "https://concursosnobrasil.com/concursos/2026/10/09/concurso-cgu-publica-edital-com-428-vagas-para-auditor-federal-e-salario-de-r-20-mil/",
-  "linkTxt": "Matéria com detalhes do edital",
-  "nivel": [
-   "superior"
-  ],
-  "org": "CGU",
-  "publicado": "2026-10-09",
-  "taxa": "R$ 170,00",
-  "titulo": "Concurso CGU publica edital com 60 vagas para Auditor Federal e salário de R$ 20 mil",
-  "vagas": "60 vagas"
- },
  "https://concursosnobrasil.com/concursos/2026/10/16/processo-seletivo-mgs-mg-abre-643-vagas-e-oferece-remuneracao-de-ate-r-39-mil/": {
   "ignorado": true,
   "publicado": "2026-10-16"
@@ -57,7 +33,7 @@
   "cargo": "Ministério da Saúde abre processo seletivo com 759 vagas e salários de até R$ 10,3 mil",
   "esfera": "Nacional, com vagas em Brasília",
   "fim": "2026-12-14",
-  "h": "916fb57143",
+  "h": "d14bb04d0d",
   "id": "auto-934a7467",
   "ini": "2026-11-12",
   "link": "https://concursosnobrasil.com/concursos/2026/11/12/ministerio-da-saude-abre-processo-seletivo-com-300-vagas-e-salarios-de-ate-r-103-mil/",
@@ -84,7 +60,7 @@
   "cargo": "Rede SARAH lança dois seletivos com salários de até R$ 14,9 mil",
   "esfera": "Nacional, com vagas em Brasília",
   "fim": "2026-12-17",
-  "h": "fd96b21f35",
+  "h": "e79e3767da",
   "id": "auto-8b883393",
   "ini": "2026-11-23",
   "link": "https://concursosnobrasil.com/concursos/2026/11/13/rede-sarah-lanca-dois-seletivos-com-salarios-de-ate-r-149-mil/",
@@ -100,7 +76,7 @@
   "salN": 14972.56,
   "taxa": "R$ 120,00",
   "titulo": "Rede SARAH lança dois seletivos com salários de até R$ 14,9 mil",
-  "vagas": "232 vagas"
+  "vagas": "24 vagas"
  },
  "https://concursosnobrasil.com/concursos/2026/11/18/concurso-anpd-com-50-vagas-e-salario-de-r-177-mil-sera-organizado-pelo-cebraspe/": {
   "ignorado": true,
@@ -114,7 +90,7 @@
   "banca": "Cebraspe",
   "cargo": "Analista e Técnico",
   "esfera": "Distrito Federal",
-  "h": "756690ecfd",
+  "h": "28274791cd",
   "id": "auto-f6942502",
   "link": "https://concursosnobrasil.com/concursos/df/2026/10/15/concurso-ibram-df-e-autorizado-com-100-vagas-para-analista-e-tecnico/",
   "linkTxt": "Matéria com detalhes do edital",
@@ -127,5 +103,30 @@
  "https://concursosnobrasil.com/concursos/df/2026/11/10/ancine-abre-cadastro-reserva-para-estagio-de-nivel-superior/": {
   "ignorado": true,
   "publicado": "2026-11-10"
+ },
+ "https://concursosnobrasil.com/concursos/df/2026/11/24/igesdf-divulga-processo-seletivo-para-a-rede-de-saude-do-df/": {
+  "area": [
+   "Saúde",
+   "TI",
+   "Engenharia e transporte"
+  ],
+  "auto": true,
+  "banca": "Cebraspe",
+  "cargo": "IGESDF divulga processo seletivo para a rede de saúde do DF",
+  "esfera": "Distrito Federal",
+  "fim": "2026-12-02",
+  "h": "2c3f5db051",
+  "id": "auto-aa711079",
+  "link": "https://concursosnobrasil.com/concursos/df/2026/11/24/igesdf-divulga-processo-seletivo-para-a-rede-de-saude-do-df/",
+  "linkTxt": "Matéria com detalhes do edital",
+  "nivel": [
+   "superior"
+  ],
+  "org": "IGESDF",
+  "publicado": "2026-11-24",
+  "sal": "R$ 7.785,45",
+  "salN": 7785.45,
+  "titulo": "IGESDF divulga processo seletivo para a rede de saúde do DF",
+  "vagas": "50 vagas"
  }
 }

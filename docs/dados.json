@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-23T20:40:07+00:00",
+ "atualizado": "2026-11-24T19:46:26+00:00",
  "coleta": {
-  "quando": "2026-11-23T20:40:07+00:00",
+  "quando": "2026-11-24T19:46:26+00:00",
   "fontes": [
    {
     "url": "https://concursosnobrasil.com/concursos/df/",
@@ -16,7 +16,7 @@
     "ok": true
    }
   ],
-  "novos": 1
+  "novos": 2
  },
  "concursos": [
   {
@@ -608,7 +608,7 @@
    "banca": "Cebraspe",
    "cargo": "Analista e Técnico",
    "esfera": "Distrito Federal",
-   "h": "756690ecfd",
+   "h": "28274791cd",
    "id": "auto-f6942502",
    "link": "https://concursosnobrasil.com/concursos/df/2026/10/15/concurso-ibram-df-e-autorizado-com-100-vagas-para-analista-e-tecnico/",
    "linkTxt": "Matéria com detalhes do edital",
@@ -617,6 +617,31 @@
    "publicado": "2026-10-15",
    "titulo": "Concurso IBRAM DF é autorizado com 100 vagas para Analista e Técnico",
    "vagas": "100 vagas"
+  },
+  {
+   "id": "auto-aa711079",
+   "auto": true,
+   "titulo": "IGESDF divulga processo seletivo para a rede de saúde do DF",
+   "org": "IGESDF",
+   "cargo": "IGESDF divulga processo seletivo para a rede de saúde do DF",
+   "esfera": "Distrito Federal",
+   "nivel": [
+    "superior"
+   ],
+   "area": [
+    "Saúde",
+    "TI",
+    "Engenharia e transporte"
+   ],
+   "banca": "Cebraspe",
+   "fim": "2026-12-02",
+   "vagas": "50 vagas",
+   "sal": "R$ 7.785,45",
+   "salN": 7785.45,
+   "link": "https://concursosnobrasil.com/concursos/df/2026/11/24/igesdf-divulga-processo-seletivo-para-a-rede-de-saude-do-df/",
+   "linkTxt": "Matéria com detalhes do edital",
+   "publicado": "2026-11-24",
+   "h": "2c3f5db051"
   }
  ],
  "historico": [
