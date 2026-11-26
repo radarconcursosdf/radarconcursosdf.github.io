@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-25T18:53:41+00:00",
+ "atualizado": "2026-11-26T18:42:32+00:00",
  "coleta": {
-  "quando": "2026-11-25T18:53:41+00:00",
+  "quando": "2026-11-26T18:42:32+00:00",
   "fontes": [
    {
     "url": "https://concursosnobrasil.com/concursos/df/",
@@ -16,7 +16,7 @@
     "ok": true
    }
   ],
-  "novos": 2
+  "novos": 1
  },
  "concursos": [
   {
@@ -602,13 +602,59 @@
   },
   {
    "area": [
+    "Saúde",
+    "TI",
+    "Jurídica"
+   ],
+   "auto": true,
+   "banca": "Quadrix",
+   "cargo": "Concurso COFEN: edital e inscrição",
+   "esfera": "Nacional, com vagas em Brasília",
+   "h": "cd41498891",
+   "id": "auto-6a5d21b1",
+   "link": "https://concursosnobrasil.com/concursos/2026/11/25/concurso-cofen-anuncia-edital-veja-o-prazo-de-inscricao/",
+   "linkTxt": "Matéria com detalhes do edital",
+   "nivel": [
+    "superior"
+   ],
+   "org": "COFEN: edital e inscrição",
+   "publicado": "2026-11-25",
+   "taxa": "R$ 100,00",
+   "titulo": "Concurso COFEN: edital e inscrição",
+   "vagas": "05 vagas",
+   "ini": "2026-11-26",
+   "sal": "R$ 18.950,52",
+   "salN": 18950.52,
+   "mudancas": [
+    {
+     "campo": "ini",
+     "de": null,
+     "para": "2026-11-26",
+     "em": "2026-11-26"
+    },
+    {
+     "campo": "vagas",
+     "de": "31 vagas",
+     "para": "05 vagas",
+     "em": "2026-11-26"
+    },
+    {
+     "campo": "sal",
+     "de": null,
+     "para": "R$ 18.950,52",
+     "em": "2026-11-26"
+    }
+   ]
+  },
+  {
+   "area": [
     "Saúde"
    ],
    "auto": true,
    "banca": "Cebraspe",
    "cargo": "Analista e Técnico",
    "esfera": "Distrito Federal",
-   "h": "478c63a92b",
+   "h": "8fd0e9d7de",
    "id": "auto-f6942502",
    "link": "https://concursosnobrasil.com/concursos/df/2026/10/15/concurso-ibram-df-e-autorizado-com-100-vagas-para-analista-e-tecnico/",
    "linkTxt": "Matéria com detalhes do edital",
@@ -629,7 +675,7 @@
    "cargo": "IGESDF divulga processo seletivo para a rede de saúde do DF",
    "esfera": "Distrito Federal",
    "fim": "2026-12-02",
-   "h": "8031718c81",
+   "h": "7aae305b63",
    "id": "auto-aa711079",
    "link": "https://concursosnobrasil.com/concursos/df/2026/11/24/igesdf-divulga-processo-seletivo-para-a-rede-de-saude-do-df/",
    "linkTxt": "Matéria com detalhes do edital",
@@ -642,29 +688,6 @@
    "salN": 7785.45,
    "titulo": "IGESDF divulga processo seletivo para a rede de saúde do DF",
    "vagas": "50 vagas"
-  },
-  {
-   "id": "auto-6a5d21b1",
-   "auto": true,
-   "titulo": "Concurso COFEN: edital e inscrição",
-   "org": "COFEN: edital e inscrição",
-   "cargo": "Concurso COFEN: edital e inscrição",
-   "esfera": "Nacional, com vagas em Brasília",
-   "nivel": [
-    "superior"
-   ],
-   "area": [
-    "Saúde",
-    "TI",
-    "Jurídica"
-   ],
-   "banca": "Quadrix",
-   "vagas": "31 vagas",
-   "taxa": "R$ 100,00",
-   "link": "https://concursosnobrasil.com/concursos/2026/11/25/concurso-cofen-anuncia-edital-veja-o-prazo-de-inscricao/",
-   "linkTxt": "Matéria com detalhes do edital",
-   "publicado": "2026-11-25",
-   "h": "0986737ee0"
   }
  ],
  "historico": [

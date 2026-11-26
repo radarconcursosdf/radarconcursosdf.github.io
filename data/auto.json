@@ -33,7 +33,7 @@
   "cargo": "Ministério da Saúde abre processo seletivo com 759 vagas e salários de até R$ 10,3 mil",
   "esfera": "Nacional, com vagas em Brasília",
   "fim": "2026-12-14",
-  "h": "979f9e2bb3",
+  "h": "db366be40a",
   "id": "auto-934a7467",
   "ini": "2026-11-12",
   "link": "https://concursosnobrasil.com/concursos/2026/11/12/ministerio-da-saude-abre-processo-seletivo-com-300-vagas-e-salarios-de-ate-r-103-mil/",
@@ -60,7 +60,7 @@
   "cargo": "Rede SARAH lança dois seletivos com salários de até R$ 14,9 mil",
   "esfera": "Nacional, com vagas em Brasília",
   "fim": "2026-12-17",
-  "h": "6270346125",
+  "h": "155c24a12f",
   "id": "auto-8b883393",
   "ini": "2026-11-23",
   "link": "https://concursosnobrasil.com/concursos/2026/11/13/rede-sarah-lanca-dois-seletivos-com-salarios-de-ate-r-149-mil/",
@@ -76,7 +76,7 @@
   "salN": 14972.56,
   "taxa": "R$ 120,00",
   "titulo": "Rede SARAH lança dois seletivos com salários de até R$ 14,9 mil",
-  "vagas": "28 vagas"
+  "vagas": "64 vagas"
  },
  "https://concursosnobrasil.com/concursos/2026/11/18/concurso-anpd-com-50-vagas-e-salario-de-r-177-mil-sera-organizado-pelo-cebraspe/": {
   "ignorado": true,
@@ -92,8 +92,9 @@
   "banca": "Quadrix",
   "cargo": "Concurso COFEN: edital e inscrição",
   "esfera": "Nacional, com vagas em Brasília",
-  "h": "0986737ee0",
+  "h": "cd41498891",
   "id": "auto-6a5d21b1",
+  "ini": "2026-11-26",
   "link": "https://concursosnobrasil.com/concursos/2026/11/25/concurso-cofen-anuncia-edital-veja-o-prazo-de-inscricao/",
   "linkTxt": "Matéria com detalhes do edital",
   "nivel": [
@@ -101,9 +102,11 @@
   ],
   "org": "COFEN: edital e inscrição",
   "publicado": "2026-11-25",
+  "sal": "R$ 18.950,52",
+  "salN": 18950.52,
   "taxa": "R$ 100,00",
   "titulo": "Concurso COFEN: edital e inscrição",
-  "vagas": "31 vagas"
+  "vagas": "05 vagas"
  },
  "https://concursosnobrasil.com/concursos/df/2026/10/15/concurso-ibram-df-e-autorizado-com-100-vagas-para-analista-e-tecnico/": {
   "area": [
@@ -113,7 +116,7 @@
   "banca": "Cebraspe",
   "cargo": "Analista e Técnico",
   "esfera": "Distrito Federal",
-  "h": "478c63a92b",
+  "h": "8fd0e9d7de",
   "id": "auto-f6942502",
   "link": "https://concursosnobrasil.com/concursos/df/2026/10/15/concurso-ibram-df-e-autorizado-com-100-vagas-para-analista-e-tecnico/",
   "linkTxt": "Matéria com detalhes do edital",
@@ -138,7 +141,7 @@
   "cargo": "IGESDF divulga processo seletivo para a rede de saúde do DF",
   "esfera": "Distrito Federal",
   "fim": "2026-12-02",
-  "h": "8031718c81",
+  "h": "7aae305b63",
   "id": "auto-aa711079",
   "link": "https://concursosnobrasil.com/concursos/df/2026/11/24/igesdf-divulga-processo-seletivo-para-a-rede-de-saude-do-df/",
   "linkTxt": "Matéria com detalhes do edital",
