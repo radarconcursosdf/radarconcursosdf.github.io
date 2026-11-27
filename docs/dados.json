@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-26T18:42:32+00:00",
+ "atualizado": "2026-11-27T18:32:51+00:00",
  "coleta": {
-  "quando": "2026-11-26T18:42:32+00:00",
+  "quando": "2026-11-27T18:32:51+00:00",
   "fontes": [
    {
     "url": "https://concursosnobrasil.com/concursos/df/",
@@ -610,8 +610,9 @@
    "banca": "Quadrix",
    "cargo": "Concurso COFEN: edital e inscrição",
    "esfera": "Nacional, com vagas em Brasília",
-   "h": "cd41498891",
+   "h": "6dc0140acd",
    "id": "auto-6a5d21b1",
+   "ini": "2026-11-26",
    "link": "https://concursosnobrasil.com/concursos/2026/11/25/concurso-cofen-anuncia-edital-veja-o-prazo-de-inscricao/",
    "linkTxt": "Matéria com detalhes do edital",
    "nivel": [
@@ -619,30 +620,29 @@
    ],
    "org": "COFEN: edital e inscrição",
    "publicado": "2026-11-25",
+   "sal": "R$ 18.950,52",
+   "salN": 18950.52,
    "taxa": "R$ 100,00",
    "titulo": "Concurso COFEN: edital e inscrição",
    "vagas": "05 vagas",
-   "ini": "2026-11-26",
-   "sal": "R$ 18.950,52",
-   "salN": 18950.52,
    "mudancas": [
     {
      "campo": "ini",
      "de": null,
-     "para": "2026-11-26",
-     "em": "2026-11-26"
+     "em": "2026-11-26",
+     "para": "2026-11-26"
     },
     {
      "campo": "vagas",
      "de": "31 vagas",
-     "para": "05 vagas",
-     "em": "2026-11-26"
+     "em": "2026-11-26",
+     "para": "05 vagas"
     },
     {
      "campo": "sal",
      "de": null,
-     "para": "R$ 18.950,52",
-     "em": "2026-11-26"
+     "em": "2026-11-26",
+     "para": "R$ 18.950,52"
     }
    ]
   },
